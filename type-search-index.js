@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.sudoku_backend","l":"Sudoku"},{"p":"com.example.sudoku_backend","l":"SudokuBackendApplication"},{"p":"com.example.sudoku_backend","l":"SudokuService"}];updateSearchResults();
